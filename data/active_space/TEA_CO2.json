@@ -1,0 +1,214 @@
+{
+ "species": "TEA_CO2",
+ "kind": "complex",
+ "basis": "def2-svp",
+ "natoms": 28,
+ "nao": 257,
+ "nelectron": 104,
+ "donor_N": 0,
+ "E_HF": -702.0243470114594,
+ "HF_HOMO_Ha": -0.37161253135524447,
+ "HF_LUMO_Ha": 0.159820189076963,
+ "spaces": {
+  "(4,4)": {
+   "E_CASCI": -702.0361535919499,
+   "E_CASSCF": -702.0873295164612,
+   "CASSCF_converged": true,
+   "CASSCF_natural_occupations": [
+    1.9652930999625156,
+    1.9648971101935329,
+    0.03511304012313123,
+    0.03469674972082858
+   ],
+   "CASSCF_natural_orbital_character": [
+    {
+     "occupation": 1.9652930999625156,
+     "frac_CO2": 0.9973622732057575,
+     "frac_donorN": 0.0013211587989678034
+    },
+    {
+     "occupation": 1.9648971101935329,
+     "frac_CO2": 0.9989743442044784,
+     "frac_donorN": 6.19300375978825e-05
+    },
+    {
+     "occupation": 0.03511304012313123,
+     "frac_CO2": 0.9944036940742685,
+     "frac_donorN": 0.0001392948883404752
+    },
+    {
+     "occupation": 0.03469674972082858,
+     "frac_CO2": 0.9902570376197657,
+     "frac_donorN": 0.0030045902199052022
+    }
+   ],
+   "orbitals": [
+    {
+     "label": "n_N",
+     "occupied": true,
+     "overlap_with_reference": 0.9993129405513304,
+     "frac_CO2": 0.008721632069420213,
+     "frac_donorN": 0.9365666592462247,
+     "fock_Ha": -0.4778021854112678
+    },
+    {
+     "label": "pi_g",
+     "occupied": true,
+     "overlap_with_reference": 0.9946734919813047,
+     "frac_CO2": 0.9979554712180505,
+     "frac_donorN": 8.112566123066214e-05,
+     "fock_Ha": -0.544441328327972
+    },
+    {
+     "label": "pi*(in)",
+     "occupied": false,
+     "overlap_with_reference": 0.9852734838402377,
+     "frac_CO2": 0.9957298748645447,
+     "frac_donorN": 0.0034092884531853637,
+     "fock_Ha": 0.24911305048690072
+    },
+    {
+     "label": "pi*(out)",
+     "occupied": false,
+     "overlap_with_reference": 0.9899679684563736,
+     "frac_CO2": 0.9988987587449704,
+     "frac_donorN": 1.7705156197283952e-05,
+     "fock_Ha": 0.2441310335707663
+    }
+   ],
+   "semicanonical_energies": [
+    -0.5444604491447382,
+    -0.4777834251330202,
+    0.24412813988736354,
+    0.24911597534539037
+   ]
+  },
+  "(4,6)": {
+   "E_CASCI": -702.0361690595956,
+   "E_CASSCF": -702.0981113096423,
+   "CASSCF_converged": true,
+   "CASSCF_natural_occupations": [
+    1.9647242246084606,
+    1.9643726170001274,
+    0.033844831396188685,
+    0.03341781955654237,
+    0.0018263084515592447,
+    0.0018141989871336207
+   ],
+   "CASSCF_natural_orbital_character": [
+    {
+     "occupation": 1.9647242246084606,
+     "frac_CO2": 0.9974845779240032,
+     "frac_donorN": 0.0013165595976765904
+    },
+    {
+     "occupation": 1.9643726170001274,
+     "frac_CO2": 0.9990265256523627,
+     "frac_donorN": 6.921240691689112e-05
+    },
+    {
+     "occupation": 0.033844831396188685,
+     "frac_CO2": 0.9943169673287005,
+     "frac_donorN": 0.0001342821087306976
+    },
+    {
+     "occupation": 0.03341781955654237,
+     "frac_CO2": 0.9904886126559523,
+     "frac_donorN": 0.003105111528922775
+    },
+    {
+     "occupation": 0.0018263084515592447,
+     "frac_CO2": 0.9923486054188096,
+     "frac_donorN": 8.953235425390834e-05
+    },
+    {
+     "occupation": 0.0018141989871336207,
+     "frac_CO2": 0.9981554523643974,
+     "frac_donorN": 0.00017033536696171481
+    }
+   ],
+   "orbitals": [
+    {
+     "label": "n_N",
+     "occupied": true,
+     "overlap_with_reference": 0.9993129405513009,
+     "frac_CO2": 0.008721632069420403,
+     "frac_donorN": 0.9365666592462235,
+     "fock_Ha": -0.47780218541127334
+    },
+    {
+     "label": "pi_g",
+     "occupied": true,
+     "overlap_with_reference": 0.9946734919813047,
+     "frac_CO2": 0.9979554712180505,
+     "frac_donorN": 8.112566123066214e-05,
+     "fock_Ha": -0.5444413283279791
+    },
+    {
+     "label": "pi*(in)",
+     "occupied": false,
+     "overlap_with_reference": 0.9852734838402377,
+     "frac_CO2": 0.9957298748645447,
+     "frac_donorN": 0.0034092884531853637,
+     "fock_Ha": 0.2491130504869004
+    },
+    {
+     "label": "pi*(out)",
+     "occupied": false,
+     "overlap_with_reference": 0.9899679684563736,
+     "frac_CO2": 0.9988987587449704,
+     "frac_donorN": 1.7705156197283952e-05,
+     "fock_Ha": 0.24413103357076016
+    },
+    {
+     "label": "v1",
+     "occupied": false,
+     "overlap_with_reference": 0.996728622028122,
+     "frac_CO2": 0.0056650521456720615,
+     "frac_donorN": 0.0079200628792785,
+     "fock_Ha": 0.16263808455268705
+    },
+    {
+     "label": "v2",
+     "occupied": false,
+     "overlap_with_reference": 0.9961984570601211,
+     "frac_CO2": 0.004923243070460446,
+     "frac_donorN": 0.0046117539415924,
+     "fock_Ha": 0.17094580686326283
+    }
+   ],
+   "semicanonical_energies": [
+    -0.5444604491447455,
+    -0.4777834251330262,
+    0.1617527086134354,
+    0.1712149636757137,
+    0.2442378095367102,
+    0.24962830939015987
+   ]
+  }
+ },
+ "AVAS": {
+  "labels": [
+   "0 N 2p",
+   "25 C 2p",
+   "26 O 2p",
+   "27 O 2p"
+  ],
+  "threshold": 0.2,
+  "cas": "(20,13)",
+  "E_CASCI": -702.1193160131006,
+  "E_CASSCF": null,
+  "CASSCF_converged": false,
+  "CASSCF_natural_occupations": [],
+  "CASSCF_run": false
+ },
+ "wall_s": 1570.3394751548767,
+ "CC": {
+  "frozen_core": 13,
+  "E_MP2": -704.0932743120609,
+  "E_CCSD": -704.1855147223404,
+  "E_CCSD_T": -704.2517393179252,
+  "CCSD_converged": true,
+  "T1_diagnostic": 0.012156417348334057
+ }
+}

@@ -1,0 +1,862 @@
+[
+ {
+  "species": "CO2",
+  "job": "opt_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 4,
+  "E_final_Eh": -188.362086009139,
+  "final_criteria": {
+   "Energy change": {
+    "value": -7.5478e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 3.0807e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 4.6269e-06,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 2.6343e-06,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 3.9502e-06,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   652.33,
+   652.34,
+   1387.95
+  ],
+  "ZPE_Eh": 0.01176153,
+  "G_298_Eh": -188.37102951,
+  "H_298_Eh": -188.3467452
+ },
+ {
+  "species": "ammonia",
+  "job": "opt_ammonia",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 4,
+  "E_final_Eh": -56.47431624146,
+  "final_criteria": {
+   "Energy change": {
+    "value": -1.3893e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 1.55391e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.93362e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002941505,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0006093489,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   1062.57,
+   1655.95,
+   1656.02
+  ],
+  "ZPE_Eh": 0.03401689,
+  "G_298_Eh": -56.45835305,
+  "H_298_Eh": -56.4364886
+ },
+ {
+  "species": "methylamine",
+  "job": "opt_methylamine",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 7,
+  "E_final_Eh": -95.723724131278,
+  "final_criteria": {
+   "Energy change": {
+    "value": 4.182e-07,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 2.58806e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 6.0296e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0003927885,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0009456715,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   322.06,
+   830.59,
+   976.37
+  ],
+  "ZPE_Eh": 0.06355164,
+  "G_298_Eh": -95.6830841,
+  "H_298_Eh": -95.65581703
+ },
+ {
+  "species": "ethylamine",
+  "job": "opt_ethylamine",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 7,
+  "E_final_Eh": -134.987818121347,
+  "final_criteria": {
+   "Energy change": {
+    "value": 1.0035e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 2.30083e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 4.79614e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002278007,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0005480227,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   249.67,
+   283.73,
+   417.76
+  ],
+  "ZPE_Eh": 0.0921747,
+  "G_298_Eh": -134.92111518,
+  "H_298_Eh": -134.89031298
+ },
+ {
+  "species": "propylamine",
+  "job": "opt_propylamine",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 8,
+  "E_final_Eh": -174.248882079793,
+  "final_criteria": {
+   "Energy change": {
+    "value": -1.4185e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 7.9774e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.37439e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001666514,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0005068144,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   132.7,
+   231.68,
+   253.59
+  ],
+  "ZPE_Eh": 0.12061397,
+  "G_298_Eh": -174.15606631,
+  "H_298_Eh": -174.12167717
+ },
+ {
+  "species": "butylamine",
+  "job": "opt_butylamine",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 8,
+  "E_final_Eh": -213.509805582061,
+  "final_criteria": {
+   "Energy change": {
+    "value": -1.3683e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 7.8572e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.26228e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001165789,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0003324708,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   113.3,
+   121.11,
+   182.33
+  ],
+  "ZPE_Eh": 0.14903963,
+  "G_298_Eh": -213.39074526,
+  "H_298_Eh": -213.35288744
+ },
+ {
+  "species": "MEA",
+  "job": "opt_MEA",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 10,
+  "E_final_Eh": -210.11094611225,
+  "final_criteria": {
+   "Energy change": {
+    "value": -5.9733e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 5.5031e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.3992e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002655688,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0007481222,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   151.53,
+   233.92,
+   274.72
+  ],
+  "ZPE_Eh": 0.09746284,
+  "G_298_Eh": -210.04103337,
+  "H_298_Eh": -210.00714429
+ },
+ {
+  "species": "DEA",
+  "job": "opt_DEA",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 9,
+  "E_final_Eh": -363.751958929974,
+  "final_criteria": {
+   "Energy change": {
+    "value": -6.867e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 7.8538e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 3.70634e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002176308,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0006249227,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   57.61,
+   89.95,
+   101.45
+  ],
+  "ZPE_Eh": 0.15912176,
+  "G_298_Eh": -363.62615002,
+  "H_298_Eh": -363.58285527
+ },
+ {
+  "species": "TEA",
+  "job": "opt_TEA",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 9,
+  "E_final_Eh": -517.391644163772,
+  "final_criteria": {
+   "Energy change": {
+    "value": -3.5168e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 1.10152e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 4.01328e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001866828,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0005393814,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   55.2,
+   55.82,
+   91.56
+  ],
+  "ZPE_Eh": 0.22036943,
+  "G_298_Eh": -517.2093328,
+  "H_298_Eh": -517.15765134
+ },
+ {
+  "species": "EDA",
+  "job": "opt_EDA",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 9,
+  "E_final_Eh": -190.263745249838,
+  "final_criteria": {
+   "Energy change": {
+    "value": -3.7247e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 1.16214e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.40569e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002638454,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0007120673,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   139.99,
+   230.81,
+   259.68
+  ],
+  "ZPE_Eh": 0.11007062,
+  "G_298_Eh": -190.18135602,
+  "H_298_Eh": -190.14718394
+ },
+ {
+  "species": "piperazine",
+  "job": "opt_piperazine",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 7,
+  "E_final_Eh": -267.581067849163,
+  "final_criteria": {
+   "Energy change": {
+    "value": 2.1484e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 2.01168e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 5.50969e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002497152,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0006282351,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   252.36,
+   253.22,
+   404.27
+  ],
+  "ZPE_Eh": 0.14713967,
+  "G_298_Eh": -267.4618254,
+  "H_298_Eh": -267.4275223
+ },
+ {
+  "species": "ammonia_CO2",
+  "job": "opt_ammonia_CO2_r3",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 5,
+  "E_final_Eh": -244.845050698536,
+  "final_criteria": {
+   "Energy change": {
+    "value": -2.07e-08,
+    "tolerance": 2e-07
+   },
+   "RMS gradient": {
+    "value": 2.5972e-06,
+    "tolerance": 8e-06
+   },
+   "MAX gradient": {
+    "value": 6.6364e-06,
+    "tolerance": 3e-05
+   },
+   "RMS step": {
+    "value": 4.26263e-05,
+    "tolerance": 0.0001
+   },
+   "MAX step": {
+    "value": 0.0001510765,
+    "tolerance": 0.0002
+   }
+  },
+  "n_imaginary": 1,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   -1.52,
+   73.51,
+   136.46
+  ],
+  "ZPE_Eh": 0.04716083,
+  "G_298_Eh": -244.82656984,
+  "H_298_Eh": -244.79124524,
+  "r_N_C_A": 2.7592194338236316,
+  "angle_OCO_deg": 175.05019632663792
+ },
+ {
+  "species": "methylamine_CO2",
+  "job": "opt_methylamine_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 73,
+  "E_final_Eh": -284.096006464737,
+  "final_criteria": {
+   "Energy change": {
+    "value": 5.94e-08,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 5.7472e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 3.56135e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0003352178,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.000778772,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   11.33,
+   80.69,
+   96.56
+  ],
+  "ZPE_Eh": 0.07652754,
+  "G_298_Eh": -284.05117594,
+  "H_298_Eh": -284.01116696,
+  "r_N_C_A": 2.7069056134578044,
+  "angle_OCO_deg": 174.17284411347742
+ },
+ {
+  "species": "ethylamine_CO2",
+  "job": "opt_ethylamine_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 51,
+  "E_final_Eh": -323.360814296644,
+  "final_criteria": {
+   "Energy change": {
+    "value": -5.9043e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 4.7744e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 3.07009e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0003839054,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0022609946,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   23.61,
+   59.99,
+   84.71
+  ],
+  "ZPE_Eh": 0.10519104,
+  "G_298_Eh": -323.28839272,
+  "H_298_Eh": -323.24632939,
+  "r_N_C_A": 2.713654113956508,
+  "angle_OCO_deg": 174.23491752314303
+ },
+ {
+  "species": "propylamine_CO2",
+  "job": "opt_propylamine_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 67,
+  "E_final_Eh": -362.621956680802,
+  "final_criteria": {
+   "Energy change": {
+    "value": -1.9733e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 6.868e-07,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 3.0719e-06,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001269946,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0004391072,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   21.21,
+   44.27,
+   73.57
+  ],
+  "ZPE_Eh": 0.13358206,
+  "G_298_Eh": -362.52303817,
+  "H_298_Eh": -362.47775886,
+  "r_N_C_A": 2.7135472655274033,
+  "angle_OCO_deg": 174.2296691394431
+ },
+ {
+  "species": "butylamine_CO2",
+  "job": "opt_butylamine_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 59,
+  "E_final_Eh": -401.88298016607,
+  "final_criteria": {
+   "Energy change": {
+    "value": -2.9978e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 2.7344e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 1.94514e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0002239677,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0014350792,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   19.78,
+   42.14,
+   50.96
+  ],
+  "ZPE_Eh": 0.16197969,
+  "G_298_Eh": -401.75752949,
+  "H_298_Eh": -401.70906789,
+  "r_N_C_A": 2.711646913443727,
+  "angle_OCO_deg": 174.18778317153354
+ },
+ {
+  "species": "MEA_CO2",
+  "job": "opt_MEA_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 40,
+  "E_final_Eh": -398.483268387986,
+  "final_criteria": {
+   "Energy change": {
+    "value": -3.1046e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 2.7138e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 9.2734e-06,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001604617,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0005555519,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   14.63,
+   40.65,
+   72.43
+  ],
+  "ZPE_Eh": 0.11036755,
+  "G_298_Eh": -398.40763841,
+  "H_298_Eh": -398.36249348,
+  "r_N_C_A": 2.751540770189485,
+  "angle_OCO_deg": 175.0720809315316
+ },
+ {
+  "species": "DEA_CO2",
+  "job": "opt_DEA_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 34,
+  "E_final_Eh": -552.125669748053,
+  "final_criteria": {
+   "Energy change": {
+    "value": -5.3502e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 3.2778e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 1.29969e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001638763,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0008572538,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   23.16,
+   55.3,
+   60.64
+  ],
+  "ZPE_Eh": 0.17216418,
+  "G_298_Eh": -551.99270845,
+  "H_298_Eh": -551.93949938,
+  "r_N_C_A": 2.7936874929351667,
+  "angle_OCO_deg": 175.47674816902605
+ },
+ {
+  "species": "TEA_CO2",
+  "job": "opt_TEA_CO2_r1",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 6,
+  "E_final_Eh": -705.7645485322,
+  "final_criteria": {
+   "Energy change": {
+    "value": -5.4467e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 6.1555e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 2.57023e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0001576973,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0007358686,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   27.4,
+   42.48,
+   52.06
+  ],
+  "ZPE_Eh": 0.23342551,
+  "G_298_Eh": -705.57419086,
+  "H_298_Eh": -705.51343246,
+  "r_N_C_A": 2.980874906870264,
+  "angle_OCO_deg": 177.22505963188274
+ },
+ {
+  "species": "EDA_CO2",
+  "job": "opt_EDA_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 27,
+  "E_final_Eh": -378.636763509592,
+  "final_criteria": {
+   "Energy change": {
+    "value": 3.8817e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 1.23021e-05,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 5.19896e-05,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.000322021,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0008688966,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   21.51,
+   44.14,
+   80.57
+  ],
+  "ZPE_Eh": 0.12306405,
+  "G_298_Eh": -378.54827544,
+  "H_298_Eh": -378.5031992,
+  "r_N_C_A": 2.719352178472547,
+  "angle_OCO_deg": 174.2711785715713
+ },
+ {
+  "species": "piperazine_CO2",
+  "job": "opt_piperazine_CO2",
+  "terminated_normally": true,
+  "converged": true,
+  "cycles": 32,
+  "E_final_Eh": -455.954240311017,
+  "final_criteria": {
+   "Energy change": {
+    "value": -3.5119e-06,
+    "tolerance": 1e-06
+   },
+   "RMS gradient": {
+    "value": 1.5035e-06,
+    "tolerance": 3e-05
+   },
+   "MAX gradient": {
+    "value": 5.1561e-06,
+    "tolerance": 0.0001
+   },
+   "RMS step": {
+    "value": 0.0005774695,
+    "tolerance": 0.0006
+   },
+   "MAX step": {
+    "value": 0.0023549754,
+    "tolerance": 0.001
+   }
+  },
+  "n_imaginary": 0,
+  "n_imaginary_above_5cm1": 0,
+  "lowest_freqs_cm1": [
+   12.59,
+   48.61,
+   57.82
+  ],
+  "ZPE_Eh": 0.15998388,
+  "G_298_Eh": -455.82947377,
+  "H_298_Eh": -455.78367617,
+  "r_N_C_A": 2.6953904752955795,
+  "angle_OCO_deg": 174.22376652381251
+ }
+]

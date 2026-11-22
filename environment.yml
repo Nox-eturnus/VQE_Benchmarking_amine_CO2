@@ -1,0 +1,18 @@
+name: amine-vqe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - scipy=1.17.1
+  - matplotlib=3.11
+  - pillow
+  - pytest
+  - pip
+  - pip:
+      - pyscf==2.10.0
+      - geometric==1.1.1
+      - qiskit==1.4.3
+      - qiskit-nature==0.7.2
+# ORCA 6.1.1 (https://www.faccts.de/orca/) is needed only to recompute the DFT and DLPNO-CCSD(T) stage;
+# its executable is taken from the ORCA_EXE environment variable.

@@ -1,0 +1,105 @@
+{
+ "species": "CO2",
+ "kind": "CO2",
+ "basis": "def2-svp",
+ "natoms": 3,
+ "nao": 42,
+ "nelectron": 22,
+ "donor_N": null,
+ "E_HF": -187.48405917803575,
+ "HF_HOMO_Ha": -0.5427909923467515,
+ "HF_LUMO_Ha": 0.20717165328440681,
+ "spaces": {
+  "(2,3)": {
+   "E_CASCI": -187.49666577799718,
+   "E_CASSCF": -187.50581429921635,
+   "CASSCF_converged": true,
+   "CASSCF_natural_occupations": [
+    1.9719968513339297,
+    0.026799065421225083,
+    0.0012040832448615621
+   ],
+   "CASSCF_natural_orbital_character": [
+    {
+     "occupation": 1.9719968513339297,
+     "frac_CO2": 0.9999999999999997,
+     "frac_donorN": 0.0
+    },
+    {
+     "occupation": 0.026799065421225083,
+     "frac_CO2": 1.0000000000000018,
+     "frac_donorN": 0.0
+    },
+    {
+     "occupation": 0.0012040832448615621,
+     "frac_CO2": 0.9999999999999994,
+     "frac_donorN": 0.0
+    }
+   ],
+   "orbitals": [
+    {
+     "label": "pi_g",
+     "occupied": true,
+     "overlap_with_reference": 0.994805842622459,
+     "frac_CO2": 1.0,
+     "frac_donorN": 0.0,
+     "fock_Ha": -0.5427909563493769
+    },
+    {
+     "label": "pi*(in)",
+     "occupied": false,
+     "overlap_with_reference": 0.9913119460167268,
+     "frac_CO2": 1.0000000000000027,
+     "frac_donorN": 0.0,
+     "fock_Ha": 0.24318522752242852
+    },
+    {
+     "label": "pi*(out)",
+     "occupied": false,
+     "overlap_with_reference": 0.9913119460164797,
+     "frac_CO2": 0.9999999999999969,
+     "frac_donorN": 0.0,
+     "fock_Ha": 0.24318522752227872
+    }
+   ],
+   "semicanonical_energies": [
+    -0.5427909563493768,
+    0.2431852275222695,
+    0.24318522752243757
+   ]
+  }
+ },
+ "AVAS": {
+  "labels": [
+   "0 C 2p",
+   "1 O 2p",
+   "2 O 2p"
+  ],
+  "threshold": 0.2,
+  "cas": "(14,10)",
+  "E_CASCI": -187.58073858301205,
+  "E_CASSCF": -187.6204373872652,
+  "CASSCF_converged": true,
+  "CASSCF_natural_occupations": [
+   1.998778104888026,
+   1.9922084608369555,
+   1.9801409056416275,
+   1.9795955626260746,
+   1.9795955626258834,
+   1.958954835746351,
+   1.9589548357463347,
+   0.06195288691540832,
+   0.061952886915358496,
+   0.027865958057886872
+  ]
+ },
+ "CC": {
+  "frozen_core": 3,
+  "E_MP2": -187.96698897008562,
+  "E_CCSD": -187.9635202399085,
+  "E_CCSD_T": -187.98164284744004,
+  "CCSD_converged": true,
+  "T1_diagnostic": 0.0192076259603343
+ },
+ "wall_s": 30.411640882492065
+}

@@ -1,0 +1,96 @@
+{
+ "species": "DEA",
+ "kind": "amine",
+ "basis": "def2-svp",
+ "natoms": 18,
+ "nao": 153,
+ "nelectron": 58,
+ "donor_N": 0,
+ "E_HF": -361.7465667045961,
+ "HF_HOMO_Ha": -0.37860161046517476,
+ "HF_LUMO_Ha": 0.16746159154231638,
+ "spaces": {
+  "(2,3)": {
+   "E_CASCI": -361.74658080284956,
+   "E_CASSCF": -361.76258994310564,
+   "CASSCF_converged": true,
+   "CASSCF_natural_occupations": [
+    1.9859133194537173,
+    0.010656879752271831,
+    0.003429800794018722
+   ],
+   "CASSCF_natural_orbital_character": [
+    {
+     "occupation": 1.9859133194537173,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.944579253044566
+    },
+    {
+     "occupation": 0.010656879752271831,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.7404900941724425
+    },
+    {
+     "occupation": 0.003429800794018722,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.6343235651787023
+    }
+   ],
+   "orbitals": [
+    {
+     "label": "n_N",
+     "occupied": true,
+     "overlap_with_reference": 1.0000000000000075,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.9610107334277997,
+     "fock_Ha": -0.461647415655653
+    },
+    {
+     "label": "v1",
+     "occupied": false,
+     "overlap_with_reference": 0.9999999999999993,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.04611118028367948,
+     "fock_Ha": 0.1674615619820995
+    },
+    {
+     "label": "v2",
+     "occupied": false,
+     "overlap_with_reference": 0.9999999999999984,
+     "frac_CO2": 0.0,
+     "frac_donorN": 0.013792058358910387,
+     "fock_Ha": 0.1753353842112589
+    }
+   ],
+   "semicanonical_energies": [
+    -0.4616474156556528,
+    0.16746156198208229,
+    0.17533538421127517
+   ]
+  }
+ },
+ "AVAS": {
+  "labels": [
+   "0 N 2p"
+  ],
+  "threshold": 0.2,
+  "cas": "(6,3)",
+  "E_CASCI": -361.7465667045953,
+  "E_CASSCF": -361.74656670459535,
+  "CASSCF_converged": true,
+  "CASSCF_natural_occupations": [
+   1.9999999999999598,
+   1.999999999999879,
+   1.9999999999998188
+  ]
+ },
+ "CC": {
+  "frozen_core": 7,
+  "E_MP2": -362.8546948258962,
+  "E_CCSD": -362.9261645742568,
+  "E_CCSD_T": -362.95787598597633,
+  "CCSD_converged": true,
+  "T1_diagnostic": 0.008642284674556617
+ },
+ "wall_s": 1447.2529134750366
+}

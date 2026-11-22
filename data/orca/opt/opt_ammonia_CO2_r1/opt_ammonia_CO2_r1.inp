@@ -1,0 +1,6 @@
+! B3LYP D3BJ def2-SVP def2/J RIJCOSX VeryTightSCF VeryTightOpt Freq DefGrid3
+%maxcore 2000
+%geom
+  MaxIter 400
+end
+* xyzfile 0 1 start.xyz

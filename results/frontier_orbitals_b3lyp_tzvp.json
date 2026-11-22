@@ -1,0 +1,456 @@
+[
+ {
+  "species": "CO2",
+  "converged": true,
+  "E": -188.5872921521782,
+  "HOMO": {
+   "energy_eV": -10.320500267575829,
+   "frac_CO2": 0.9999999999999986,
+   "frac_donorN": 0.0,
+   "frac_amine": 1.4432899320127035e-15
+  },
+  "LUMO": {
+   "energy_eV": 0.4219390804529631,
+   "frac_CO2": 0.9999999999999903,
+   "frac_donorN": 0.0,
+   "frac_amine": 9.658940314238862e-15
+  },
+  "gap_eV": 10.742439348028793,
+  "CO2_pistar": {
+   "index_above_LUMO": 0,
+   "energy_eV": 0.4219390804529631,
+   "frac_CO2": 0.9999999999999903
+  },
+  "donor_acceptor_gap_eV": 10.742439348028793
+ },
+ {
+  "species": "ammonia",
+  "converged": true,
+  "E": -56.54889358463966,
+  "HOMO": {
+   "energy_eV": -7.3548818220141845,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.972920543664111,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.654234981931882,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.26728770723787554,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 8.009116803946066,
+  "CO2_pistar": null
+ },
+ {
+  "species": "ammonia_CO2",
+  "converged": true,
+  "E": -245.13970859015433,
+  "HOMO": {
+   "energy_eV": -7.763490229137295,
+   "frac_CO2": 0.026343190188978606,
+   "frac_donorN": 0.9472539889123363,
+   "frac_amine": 0.9736568098110214
+  },
+  "LUMO": {
+   "energy_eV": 0.31801668535236516,
+   "frac_CO2": 0.16308734218900545,
+   "frac_donorN": 0.2191085276871605,
+   "frac_amine": 0.8369126578109946
+  },
+  "gap_eV": 8.08150691448966,
+  "CO2_pistar": {
+   "index_above_LUMO": 1,
+   "energy_eV": 1.3674970698232671,
+   "frac_CO2": 0.9978723596018535
+  },
+  "donor_acceptor_gap_eV": 9.130987298960562
+ },
+ {
+  "species": "methylamine",
+  "converged": true,
+  "E": -95.83519847293418,
+  "HOMO": {
+   "energy_eV": -6.514441686851054,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.8338549588704761,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.8381085315942164,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.1886129696436246,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.352550218445271,
+  "CO2_pistar": null
+ },
+ {
+  "species": "methylamine_CO2",
+  "converged": true,
+  "E": -284.4257939628561,
+  "HOMO": {
+   "energy_eV": -6.926944568435465,
+   "frac_CO2": 0.027906595678510417,
+   "frac_donorN": 0.8016948413320767,
+   "frac_amine": 0.9720934043214896
+  },
+  "LUMO": {
+   "energy_eV": 0.4552166242371472,
+   "frac_CO2": 0.22077439256005782,
+   "frac_donorN": 0.15066495548901146,
+   "frac_amine": 0.7792256074399422
+  },
+  "gap_eV": 7.382161192672612,
+  "CO2_pistar": {
+   "index_above_LUMO": 1,
+   "energy_eV": 1.3335958010399012,
+   "frac_CO2": 0.9973926303071555
+  },
+  "donor_acceptor_gap_eV": 8.260540369475367
+ },
+ {
+  "species": "ethylamine",
+  "converged": true,
+  "E": -135.1373990666197,
+  "HOMO": {
+   "energy_eV": -6.5218298700126445,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.8167788369145194,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.8142311386047449,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.14692870266153688,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.336061008617389,
+  "CO2_pistar": null
+ },
+ {
+  "species": "ethylamine_CO2",
+  "converged": true,
+  "E": -323.72762560319234,
+  "HOMO": {
+   "energy_eV": -6.898277201194422,
+   "frac_CO2": 0.027422519549689217,
+   "frac_donorN": 0.7786949685516014,
+   "frac_amine": 0.9725774804503108
+  },
+  "LUMO": {
+   "energy_eV": 0.5080778170010704,
+   "frac_CO2": 0.21717596459589975,
+   "frac_donorN": 0.13139629465565833,
+   "frac_amine": 0.7828240354041003
+  },
+  "gap_eV": 7.406355018195493,
+  "CO2_pistar": {
+   "index_above_LUMO": 1,
+   "energy_eV": 1.2882552609689328,
+   "frac_CO2": 0.992285408211759
+  },
+  "donor_acceptor_gap_eV": 8.186532462163354
+ },
+ {
+  "species": "propylamine",
+  "converged": true,
+  "E": -174.43610589004612,
+  "HOMO": {
+   "energy_eV": -6.509439843711718,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.8151445955088787,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.8601100405482334,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.14121029170570737,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.369549884259952,
+  "CO2_pistar": null
+ },
+ {
+  "species": "propylamine_CO2",
+  "converged": true,
+  "E": -363.02630504428043,
+  "HOMO": {
+   "energy_eV": -6.884359215306765,
+   "frac_CO2": 0.02727518099152057,
+   "frac_donorN": 0.777968340190981,
+   "frac_amine": 0.9727248190084794
+  },
+  "LUMO": {
+   "energy_eV": 0.5533683299808333,
+   "frac_CO2": 0.24149301933287437,
+   "frac_donorN": 0.13634154215968644,
+   "frac_amine": 0.7585069806671256
+  },
+  "gap_eV": 7.437727545287599,
+  "CO2_pistar": {
+   "index_above_LUMO": 2,
+   "energy_eV": 1.2914308151657126,
+   "frac_CO2": 0.9784857704370938
+  },
+  "donor_acceptor_gap_eV": 8.175790030472477
+ },
+ {
+  "species": "butylamine",
+  "converged": true,
+  "E": -213.73479586643083,
+  "HOMO": {
+   "energy_eV": -6.500533712751062,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.8141750958086339,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.8557240851104154,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.13115514203836345,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.356257797861477,
+  "CO2_pistar": null
+ },
+ {
+  "species": "butylamine_CO2",
+  "converged": true,
+  "E": -402.3249988364566,
+  "HOMO": {
+   "energy_eV": -6.874918735873577,
+   "frac_CO2": 0.0274017861380232,
+   "frac_donorN": 0.776984020729042,
+   "frac_amine": 0.9725982138619768
+  },
+  "LUMO": {
+   "energy_eV": 0.5582601728337878,
+   "frac_CO2": 0.240899097007657,
+   "frac_donorN": 0.13508679784489327,
+   "frac_amine": 0.759100902992343
+  },
+  "gap_eV": 7.433178908707365,
+  "CO2_pistar": {
+   "index_above_LUMO": 2,
+   "energy_eV": 1.2961385882054093,
+   "frac_CO2": 0.9754012771486615
+  },
+  "donor_acceptor_gap_eV": 8.171057324078987
+ },
+ {
+  "species": "MEA",
+  "converged": true,
+  "E": -210.3512783815166,
+  "HOMO": {
+   "energy_eV": -6.724328790172123,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.7750597216703183,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.6262747190556672,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.10597951868537271,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.35060350922779,
+  "CO2_pistar": null
+ },
+ {
+  "species": "MEA_CO2",
+  "converged": true,
+  "E": -398.94103898453596,
+  "HOMO": {
+   "energy_eV": -7.063287092271598,
+   "frac_CO2": 0.022754363083141084,
+   "frac_donorN": 0.7294191646336752,
+   "frac_amine": 0.977245636916859
+  },
+  "LUMO": {
+   "energy_eV": 0.3741308391128642,
+   "frac_CO2": 0.1874679833681092,
+   "frac_donorN": 0.1495169718436085,
+   "frac_amine": 0.8125320166318908
+  },
+  "gap_eV": 7.437417931384463,
+  "CO2_pistar": {
+   "index_above_LUMO": 2,
+   "energy_eV": 1.1784742553011702,
+   "frac_CO2": 0.9818682947201249
+  },
+  "donor_acceptor_gap_eV": 8.24176134757277
+ },
+ {
+  "species": "DEA",
+  "converged": true,
+  "E": -364.15698721707446,
+  "HOMO": {
+   "energy_eV": -6.425538080347347,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.7366263040394057,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.5678590611494994,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.03259810646773326,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 6.993397141496846,
+  "CO2_pistar": null
+ },
+ {
+  "species": "DEA_CO2",
+  "converged": true,
+  "E": -552.7455117605322,
+  "HOMO": {
+   "energy_eV": -6.7363928909327475,
+   "frac_CO2": 0.020392106072361946,
+   "frac_donorN": 0.718615842504065,
+   "frac_amine": 0.979607893927638
+  },
+  "LUMO": {
+   "energy_eV": 0.3700523559866181,
+   "frac_CO2": 0.2833151974008657,
+   "frac_donorN": 0.04272122698696487,
+   "frac_amine": 0.7166848025991344
+  },
+  "gap_eV": 7.106445246919366,
+  "CO2_pistar": {
+   "index_above_LUMO": 3,
+   "energy_eV": 0.9221918663181219,
+   "frac_CO2": 0.856892795769072
+  },
+  "donor_acceptor_gap_eV": 7.658584757250869
+ },
+ {
+  "species": "TEA",
+  "converged": true,
+  "E": -517.9571341577334,
+  "HOMO": {
+   "energy_eV": -6.086410138426249,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.6534364873468569,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.4163091600686913,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.015351340398566313,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 6.502719298494941,
+  "CO2_pistar": null
+ },
+ {
+  "species": "TEA_CO2",
+  "converged": true,
+  "E": -706.5433761457614,
+  "HOMO": {
+   "energy_eV": -6.372060500564102,
+   "frac_CO2": 0.012971487061954754,
+   "frac_donorN": 0.6459175725072839,
+   "frac_amine": 0.9870285129380453
+  },
+  "LUMO": {
+   "energy_eV": 0.283675453698411,
+   "frac_CO2": 0.3545389360632608,
+   "frac_donorN": 0.009608412417364768,
+   "frac_amine": 0.6454610639367392
+  },
+  "gap_eV": 6.6557359542625125,
+  "CO2_pistar": {
+   "index_above_LUMO": 4,
+   "energy_eV": 0.7168094921478011,
+   "frac_CO2": 0.9080794654545232
+  },
+  "donor_acceptor_gap_eV": 7.088869992711903
+ },
+ {
+  "species": "EDA",
+  "converged": true,
+  "E": -190.47546742364318,
+  "HOMO": {
+   "energy_eV": -6.519485931790183,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.4411628988456241,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.876192896935749,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.0813220808346763,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 7.3956788287259325,
+  "CO2_pistar": null
+ },
+ {
+  "species": "EDA_CO2",
+  "converged": true,
+  "E": -379.0656198063183,
+  "HOMO": {
+   "energy_eV": -6.6439543242934835,
+   "frac_CO2": 0.0017222957772725094,
+   "frac_donorN": 0.01654138910160731,
+   "frac_amine": 0.9982777042227274
+  },
+  "LUMO": {
+   "energy_eV": 0.5223431702295778,
+   "frac_CO2": 0.27869169442554553,
+   "frac_donorN": 0.14092763449858417,
+   "frac_amine": 0.7213083055744545
+  },
+  "gap_eV": 7.166297494523061,
+  "CO2_pistar": {
+   "index_above_LUMO": 2,
+   "energy_eV": 1.237275466570763,
+   "frac_CO2": 0.9854512407761038
+  },
+  "donor_acceptor_gap_eV": 7.881229790864246
+ },
+ {
+  "species": "piperazine",
+  "converged": true,
+  "E": -267.8572505170056,
+  "HOMO": {
+   "energy_eV": -5.388692928725535,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.35753376979604,
+   "frac_amine": 1.0
+  },
+  "LUMO": {
+   "energy_eV": 0.8989380179211227,
+   "frac_CO2": 0.0,
+   "frac_donorN": 0.0601453846591146,
+   "frac_amine": 1.0
+  },
+  "gap_eV": 6.287630946646658,
+  "CO2_pistar": null
+ },
+ {
+  "species": "piperazine_CO2",
+  "converged": true,
+  "E": -456.4472540705204,
+  "HOMO": {
+   "energy_eV": -5.637520778193421,
+   "frac_CO2": 0.011106140492779566,
+   "frac_donorN": 0.2943331591955362,
+   "frac_amine": 0.9888938595072204
+  },
+  "LUMO": {
+   "energy_eV": 0.5807554439000606,
+   "frac_CO2": 0.25739275219318236,
+   "frac_donorN": 0.047982743052781156,
+   "frac_amine": 0.7426072478068176
+  },
+  "gap_eV": 6.218276222093482,
+  "CO2_pistar": {
+   "index_above_LUMO": 2,
+   "energy_eV": 1.2087385555006296,
+   "frac_CO2": 0.9754615285473243
+  },
+  "donor_acceptor_gap_eV": 6.846259333694051
+ }
+]
